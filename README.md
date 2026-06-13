@@ -9,7 +9,7 @@ The HTML template used for this project is the **Vora** template from Tooplate. 
 Docker hub image repository link: https://hub.docker.com/repository/docker/hurairahhh/voraimg
 
 Pull the image of the project by command "docker push hurairahhh/voraimg:tagname"
-
+ 
 ## Features
 
 - **Base Image:** `ubuntu:latest`

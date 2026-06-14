@@ -2,7 +2,7 @@
 
 This repository contains the `Dockerfile` for the **Vora** project. It packages an Ubuntu-based Apache 2 web server. 
 
-The HTML template used for this project is the **Vora** template from Tooplate. You can download the original template here: [2161_vora_bold.zip](https://www.tooplate.com/zip-templates/2161_vora_bold.zip).
+The HTML template used for this project is the **Vora** template from Tooplate. You can download the original template here: [2161_vora_bold.zip](https://www.tooplate.com/zip-templates/2161_vora_bold.zip). 
 
 # DcokerHub image Repository 
 

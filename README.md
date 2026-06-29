@@ -1,4 +1,4 @@
-# Vora Docker Image
+# Vora Docker Image 
 
 This repository contains the `Dockerfile` for the **Vora** project. It packages an Ubuntu-based Apache 2 web server. 
 
